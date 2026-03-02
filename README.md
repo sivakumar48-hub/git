@@ -12,27 +12,30 @@ AWS DevOps Engineer | Cloud & Automation Enthusiast
 
 ## 📂 Projects
 
-### 1. Moon Bean Cafe – DevOps Project
-- CI/CD pipeline using Jenkins
-- Dockerized application deployed on ECS
-- Backend deployed using AWS Lambda
-- Infrastructure automated using CloudFormation
+### 1. AWS DevOps CI/CD Project – Moon Bean Cafe
+- Built a CI/CD pipeline using Jenkins to automate build and deployment
+- Containerized application using Docker and deployed on AWS ECS
+- Implemented serverless backend using AWS Lambda
+- Provisioned infrastructure using CloudFormation
+- Monitored application using CloudWatch
 
-👉 Repo: https://github.com/sivakumar48-hub/MoonBeanCafe
-
----
-
-### 2. Java Maven App
-- Simple CI/CD pipeline project
-
-👉 Repo: https://github.com/sivakumar48-hub/simple-java-maven-app
+👉 Repo: https://github.com/sivakumar48-hub/aws-devops-ci-cd-moonbean-cafe
 
 ---
 
-### 3. Dashboard Project
-- Monitoring / UI based project
+### 2. Docker Java Maven Application
+- Built and containerized Java application using Docker
+- Implemented basic CI/CD pipeline for build and deployment
 
-👉 Repo: https://github.com/sivakumar48-hub/Dashboard
+👉 Repo: https://github.com/sivakumar48-hub/docker-java-maven-app
+
+---
+
+### 3. Monitoring Dashboard Project
+- Implemented monitoring solution using AWS CloudWatch
+- Configured alerts for resource utilization
+
+👉 Repo: https://github.com/sivakumar48-hub/aws-cloudwatch-monitoring-alerts
 
 ---
 
